@@ -1,0 +1,37 @@
+APOLLO TO DO:
+
+1. Fix cart table reading for cash total - OK
+2. Work on edit cart table - OK
+ > Enter product ID of item to edit - OK
+ > Edit quantity on both tables - OK 
+ > Resolve null value exception loop when closing JOptionPane - OK 
+3. Work on overwriting masterfile quantities - OK
+4. Link Login & Signup programs to the Main program - OK
+5. Test and debug Login & Signup, check for loopholes - OK
+6. Return cart items to masterfile on close - OK
+7. Refine cashier frame design - WIP
+8. Make admin/cashier system on login/signup frames - OK
+9. Make admin window
+ > Finish component placement - OK
+ > Link salesfile to table - OK
+  - Reflect total sales on pTotal panel - OK
+ > Make search function - OK
+  - Search by category - OK
+  - Search by text - OK
+ > Make edit function - OK
+  - Link tblMaster and tblResults - OK
+  - Interchangeable stocks/sold system - OK
+ > pMisc panel - OK
+  - Log out and exit buttons - OK
+  - Move sign up from login window to admin - OK
+ > Other features
+  - Edit prompt - OK
+  - Admin save changes - OK
+  - Change JTable header and content order - OK
+10. Cashier bulk order feature - OK
+
+POST-CHECKING MISTAKES:
+ 1. allowed multiple same user sign ups - OK
+  - fix: do fresh save and load of login file for every new account registered and tie with existing user check
+ 2. negative values for bulk orders - OK
+  - fix: some quick math stuff

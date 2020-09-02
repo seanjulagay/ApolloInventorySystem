@@ -1,0 +1,55 @@
+1001 29000.0 0
+Epiphone Les Paul Standard
+1002 32400.0 0
+Fender Vintera '60s Telecaster Modified
+1003 45390.0 0
+Ibanez Genesis Collection RG550
+1004 46461.92 0
+Gibson Les Paul Studio
+1005 31500.0 0
+Dean ML 79 Blue Burst
+
+2001 40700.0 0
+Tama Imperialstar 6-Piece
+2002 137717.82 0
+DW Collector's Series 7-Piece
+2003 18999.0 0
+Pearl Roadshow 5-Piece
+2004 95000.0 0
+PDP Player 5-Piece
+2005 38160.0 0
+Ludwig Element Evolution 6-Piece
+
+3001 41390.0 0
+Peavey 6505
+3002 20300.0 0
+Fender Champion 100
+3003 22993.0 0
+Vox Custom AC15C2
+3004 5750.0 0
+Orange Crush Pro CR60C
+3005 16800.0 0
+Boss Katana KTN-100
+
+4001 10100.0 0
+Audient iD4
+4002 7850.0 0
+Native Instruments Komplete Audio 2
+4003 12400.0 0
+Mackie Onyx Producer 2.2
+4004 13000.0 0
+Focusrite Scarlett 4i4
+4005 15259.0 0
+Steinberg UR22C
+
+5001 84113.0 0
+Takamine EF360S-TT
+5002 101904.0 0
+Taylor 314ce
+5003 66016.48 0
+Blueridge BR-160
+5004 21500.0 0
+Yamaha A Series A3M
+5005 41727.0 0
+Seagull S6 Original
+
